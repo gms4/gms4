@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on Apple Development at Apple Development Academy/CIn-UFPE
 - 🌱 I’m currently learning Swift
-- 😄 Pronouns: He/Him
 
 <div align="center">
   <a href="https://github.com/gms4">
