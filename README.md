@@ -1,6 +1,6 @@
 ### Hi there, I'm Guilherme Souza! 👋
 
-- 🔭 I’m currently working on Apple Development at Apple Development Academy/CIn-UFPE
+- 🔭 I’m currently working on Apple Development at Apple Developer Academy/CIn-UFPE
 - 🌱 I’m currently learning Swift
 
 <div align="center">
